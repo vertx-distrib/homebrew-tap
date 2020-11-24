@@ -1,6 +1,6 @@
 # homebrew-tap
 
-[HomeBrew](http://brew.sh/) distribution with a custom thirdparty repository (TAP).
+[HomeBrew](http://brew.sh/) thirdparty repository (TAP).
 
 ## Vert.x 4 formula
 
