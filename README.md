@@ -17,3 +17,18 @@ After you can use Vert.x CLI:
 > vertx -version
 ```
 
+## Vert.x 3 formula
+
+Usage:
+
+```
+> brew tap vertx-distrib/tap
+> brew install vertx3
+```
+
+After you can use Vert.x CLI:
+
+```
+> vertx -version
+```
+
