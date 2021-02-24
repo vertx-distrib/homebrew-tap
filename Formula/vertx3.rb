@@ -1,4 +1,4 @@
-class Vertx4 < Formula
+class Vertx3 < Formula
   desc "Toolkit for building reactive applications on the JVM"
   homepage "https://vertx.io/"
   url "https://bintray.com/vertx/downloads/download_file?file_path=vert.x-3.9.5-full.zip"
