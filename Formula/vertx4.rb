@@ -10,8 +10,6 @@ class Vertx4 < Formula
     regex(/href=.*?vert\.x[._-]v?(\d+(?:\.\d+)+)-full\.t/i)
   end
 
-  bottle :unneeded
-
   depends_on "openjdk"
 
   def install
