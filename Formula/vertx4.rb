@@ -1,8 +1,8 @@
 class Vertx4 < Formula
   desc "Toolkit for building reactive applications on the JVM"
   homepage "https://vertx.io/"
-  url "https://repo1.maven.org/maven2/io/vertx/vertx-stack-manager/4.5.8/vertx-stack-manager-4.5.8-full.zip"
-  sha256 "6feca0a2666ef8ddb48e6f1f4e7e5093ee0675e2d6fa916f2241ab6424770150"
+  url "https://repo1.maven.org/maven2/io/vertx/vertx-stack-manager/4.5.9/vertx-stack-manager-4.5.9-full.zip"
+  sha256 "d74dc739ff2c62316597d53c4d240c8e56967e712f9b615d20b379f3b427f723"
   license any_of: ["EPL-2.0", "Apache-2.0"]
 
   livecheck do
